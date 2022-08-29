@@ -108,10 +108,10 @@
 
         List<cardHolder> cardHolders = new List<cardHolder>();
         cardHolders.Add(new cardHolder("4532772818527395" , 1234 , "Rovin" , "Sharma" , 10000.00));
-        cardHolders.Add(new cardHolder("4532772818527595" , 4567 , "Sanjay" , "Yadav" , 10000.00));
-        cardHolders.Add(new cardHolder("4532772818527844" , 8011 , "Deepak" , "Sharma" , 10000.00));
+        cardHolders.Add(new cardHolder("4532772818527595" , 4567 , "Rahul" , "Sharma" , 10000.00));
+        cardHolders.Add(new cardHolder("4532772818527844" , 8011 , "Rohan" , "Sharma" , 10000.00));
         cardHolders.Add(new cardHolder("4532772818527145" , 9119 , "Anuj" , "Sharma" , 10000.00));
-        cardHolders.Add(new cardHolder("4532772818527101" , 8055 , "Satypal" , "Sharma" , 10000.00));
+        cardHolders.Add(new cardHolder("4532772818527101" , 8055 , "Shivam" , "Sharma" , 10000.00));
         cardHolders.Add(new cardHolder("4532772818527001" , 9289 , "Sanjay" , "Sharma" , 10000.00));
 
         //Prompt User
