@@ -1,0 +1,15 @@
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\bin\Debug\net6.0\atmapp.exe
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\bin\Debug\net6.0\atmapp.deps.json
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\bin\Debug\net6.0\atmapp.runtimeconfig.json
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\bin\Debug\net6.0\atmapp.dll
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\bin\Debug\net6.0\atmapp.pdb
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\obj\Debug\net6.0\atmapp.csproj.AssemblyReference.cache
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\obj\Debug\net6.0\atmapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\obj\Debug\net6.0\atmapp.AssemblyInfoInputs.cache
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\obj\Debug\net6.0\atmapp.AssemblyInfo.cs
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\obj\Debug\net6.0\atmapp.csproj.CoreCompileInputs.cache
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\obj\Debug\net6.0\atmapp.dll
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\obj\Debug\net6.0\refint\atmapp.dll
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\obj\Debug\net6.0\atmapp.pdb
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\obj\Debug\net6.0\atmapp.genruntimeconfig.cache
+C:\Users\FIXIT-ACCOUNTS\Desktop\atmapp\obj\Debug\net6.0\ref\atmapp.dll
